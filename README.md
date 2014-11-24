@@ -36,9 +36,9 @@ Parameters are:
 ### Lola output
 Output consists of the following files:
 
-* **<out-prefix>.fna** - File with both assembled contigs and unassembled reads. Assembled reads and reads contained in other reads are excluded from this file.
-* **<out-prefix>.gff** - mapping of reads to assembled contigs and other reads (in case a read is contained within another read).
-* **<out-prefix>.log** - a log file describing the assembly process. Can be used for debugging purposes.
+* **\<out-prefix\>.fna** - File with both assembled contigs and unassembled reads. Assembled reads and reads contained in other reads are excluded from this file.
+* **\<out-prefix\>.gff** - mapping of reads to assembled contigs and other reads (in case a read is contained within another read).
+* **\<out-prefix\>.log** - a log file describing the assembly process. Can be used for debugging purposes.
 
 ### example
 
