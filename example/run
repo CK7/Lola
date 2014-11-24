@@ -1,0 +1,16 @@
+lola="<your-path>/assembler/assemble.pl"
+overlap="<your-path>/overlap"
+moleculo_reads_file="RBG-1.reads.fna"
+
+mkdir db
+cd db
+ln -s ../$moleculo_reads_file
+formatdb -p F -o T -i $moleculo_reads_file
+cd ..
+echo "Running blast..."
+blastall -p blastn -F F -m 8 -r 1 -q -5 -o RBG-1.reads.self.m8 -d db/$moleculo_reads_file -a 3 -i $moleculo_reads_file
+echo "Running overlap..."
+$overlap $moleculo_reads_file RBG-1.reads.self.m8 > RBG-1.reads.overlap.txt
+echo "Running lola..."
+$lola -p 99 $moleculo_reads_file RBG-1.reads.overlap.txt RBG-1.moleculo 2> RBG-1.moleculo.log
+echo "Running done"

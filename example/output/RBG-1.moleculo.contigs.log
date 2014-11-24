@@ -1,0 +1,1906 @@
+Lola v0.62, 11/24/2014 06:23:48
+
+
+*** M1.1 ***
+
+Number of links: 2
+Size: 16717
+%G+C: 41.7
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-020662	9695	|	1	9695	forward	|	1	9695	1	9695
+2	mol-32-1605-019607	8494	|	8224	16717	reverse	|	1	7022	9696	16717
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-015901	4164	|	6866	11029	reverse
+4	mol-32-1605-061741	8744	|	1997	10740	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M2.1 ***
+
+Number of links: 5
+Size: 26867
+%G+C: 40.6
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-079209	8322	|	1	8322	forward	|	1	8322	1	8322
+2	mol-32-1605-050269	6582	|	6924	13505	reverse	|	1	5183	8323	13505
+3	mol-32-1605-041558	7480	|	10180	17659	reverse	|	1	4154	13506	17659
+4	mol-32-1605-066339	9105	|	15427	24531	reverse	|	1	6872	17660	24531
+5	mol-32-15ef-064316	8413	|	18455	26867	reverse	|	1	2336	24532	26867
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+6	mol-32-1605-060079	1601	|	6257	7857	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M3.1 ***
+
+Number of links: 4
+Size: 25938
+%G+C: 44.5
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-005898	7495	|	1	7495	forward	|	1	7495	1	7495
+2	mol-32-15ef-046277	7963	|	5884	13846	forward	|	1613	7963	7496	13846
+3	mol-32-15ef-032491	7878	|	12689	20566	forward	|	1159	7878	13847	20566
+4	mol-32-1605-064138	9206	|	16733	25938	forward	|	3835	9206	20567	25938
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-037545	10813	|	864	11676	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M4.1 ***
+
+Number of links: 3
+Size: 14263
+%G+C: 40.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-081876	8736	|	1	8736	forward	|	1	8736	1	8736
+2	mol-32-1605-030158	6007	|	5841	11847	reverse	|	1	3111	8737	11847
+3	mol-32-1605-011438	3415	|	10849	14263	forward	|	1000	3415	11848	14263
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-15ef-060096	7947	|	1	7947	reverse
+5	mol-32-1605-030159	3461	|	2386	5846	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M5.1 ***
+
+Number of links: 2
+Size: 11605
+%G+C: 58.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-066111	7952	|	1	7952	reverse	|	1	7952	1	7952
+2	mol-32-1605-072987	9117	|	2489	11605	reverse	|	1	3653	7953	11605
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M6.1 ***
+
+Number of links: 3
+Size: 19734
+%G+C: 43.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-035305	8699	|	1	8699	forward	|	1	8699	1	8699
+2	mol-32-1605-022212	9358	|	6077	15434	forward	|	2624	9358	8700	15434
+3	mol-32-1605-038399	8790	|	10945	19734	forward	|	4491	8790	15435	19734
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M7.1 ***
+
+Number of links: 2
+Size: 14096
+%G+C: 42.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-027511	10730	|	1	10730	reverse	|	1	10730	1	10730
+2	mol-32-1605-026623	10527	|	3570	14096	reverse	|	1	3366	10731	14096
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-15ef-025546	8713	|	3443	12155	reverse
+4	mol-32-1605-038800	10673	|	867	11539	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M8.1 ***
+
+Number of links: 6
+Size: 39493
+%G+C: 41.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-026882	6945	|	1	6945	reverse	|	1	6945	1	6945
+2	mol-32-1605-034871	8033	|	6055	14087	reverse	|	1	7142	6946	14087
+3	mol-32-15ef-044519	8706	|	11835	20540	reverse	|	1	6453	14088	20540
+4	mol-32-1605-041121	9340	|	19790	29129	forward	|	752	9340	20541	29129
+5	mol-32-1605-009823	8546	|	28438	36983	forward	|	693	8546	29130	36983
+6	mol-32-15ef-007654	8151	|	31343	39493	reverse	|	1	2510	36984	39493
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+7	mol-32-1605-037702	1588	|	1580	3167	reverse
+8	mol-32-1605-037690	2221	|	5666	7886	reverse
+9	mol-32-1605-037701	2499	|	3267	5765	reverse
+10	mol-32-1605-067429	7828	|	21447	29274	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M9.1 ***
+
+Number of links: 3
+Size: 16022
+%G+C: 44
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-041661	8184	|	1	8184	reverse	|	1	8184	1	8184
+2	mol-32-1605-048792	9378	|	6333	15710	forward	|	1853	9378	8185	15710
+3	mol-32-1605-073615	3475	|	12548	16022	forward	|	3164	3475	15711	16022
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-15ef-033755	9435	|	1508	10942	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M10.1 ***
+
+Number of links: 2
+Size: 9911
+%G+C: 42.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-010912	8481	|	1	8481	forward	|	1	8481	1	8481
+2	mol-32-1605-014223	2672	|	7240	9911	reverse	|	1	1430	8482	9911
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-046316	1580	|	6513	8092	reverse
+4	mol-32-1605-046317	1615	|	4858	6472	reverse
+5	mol-32-1605-049958	9383	|	248	9630	forward
+6	mol-32-1605-030643	8239	|	681	8919	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M11.1 ***
+
+Number of links: 11
+Size: 57675
+%G+C: 42.7
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-045857	9178	|	1	9178	forward	|	1	9178	1	9178
+2	mol-32-15ef-060518	8482	|	4668	13149	forward	|	4512	8482	9179	13149
+3	mol-32-1605-051322	9234	|	10226	19459	forward	|	2925	9234	13150	19459
+4	mol-32-1605-055053	7917	|	14910	22826	reverse	|	1	3367	19460	22826
+5	mol-32-1605-069105	8683	|	21789	30471	forward	|	1039	8683	22827	30471
+6	mol-32-1605-041975	9196	|	29195	38390	reverse	|	1	7919	30472	38390
+7	mol-32-15ef-053962	8441	|	35359	43799	reverse	|	1	5409	38391	43799
+8	mol-32-1605-048861	8189	|	38828	47016	forward	|	4973	8189	43800	47016
+9	mol-32-1605-015352	6559	|	43425	49983	forward	|	3593	6559	47017	49983
+10	mol-32-1605-069643	9123	|	47168	56290	forward	|	2817	9123	49984	56290
+11	mol-32-1605-011786	6915	|	50761	57675	forward	|	5531	6915	56291	57675
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+12	mol-32-1605-060923	3631	|	40955	44585	forward
+13	mol-32-1605-018939	8073	|	21810	29882	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M12.1 ***
+
+Number of links: 2
+Size: 14651
+%G+C: 40.5
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-070160	7434	|	1	7434	forward	|	1	7434	1	7434
+2	mol-32-1605-048260	8999	|	5653	14651	reverse	|	1	7217	7435	14651
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-000260	3770	|	8583	12352	forward
+4	mol-32-1605-067491	8811	|	3112	11922	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M13.1 ***
+
+Number of links: 2
+Size: 10663
+%G+C: 42.4
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-083258	8345	|	1	8345	forward	|	1	8345	1	8345
+2	mol-32-1605-003789	8509	|	2155	10663	reverse	|	1	2318	8346	10663
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+No more sequeces left to check
+
+
+*** M15.1 ***
+
+Number of links: 4
+Size: 19317
+%G+C: 43.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-055009	3255	|	1	3255	forward	|	1	3255	1	3255
+2	mol-32-1605-009061	10041	|	1773	11813	reverse	|	1	8558	3256	11813
+3	mol-32-1605-033176	3266	|	11096	14361	reverse	|	1	2548	11814	14361
+4	mol-32-1605-029612	7676	|	11642	19317	forward	|	2721	7676	14362	19317
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-033306	1918	|	8337	10254	reverse
+6	mol-32-1605-033303	2608	|	5792	8399	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M16.1 ***
+
+Number of links: 3
+Size: 18414
+%G+C: 41.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-049001	8121	|	1	8121	reverse	|	1	8121	1	8121
+2	mol-32-1605-012033	12176	|	1783	13958	forward	|	6340	12176	8122	13958
+3	mol-32-1605-062420	7602	|	10813	18414	forward	|	3147	7602	13959	18414
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-1605-026214	9357	|	1009	10365	forward
+5	mol-32-1605-068968	2123	|	10865	12987	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M17.1 ***
+
+Number of links: 4
+Size: 24860
+%G+C: 43
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-016361	5881	|	1	5881	forward	|	1	5881	1	5881
+2	mol-32-15ef-050000	8894	|	3211	12104	forward	|	2672	8894	5882	12104
+3	mol-32-15ef-051939	8334	|	7880	16213	forward	|	4226	8334	12105	16213
+4	mol-32-1605-033606	9396	|	15465	24860	reverse	|	1	8647	16214	24860
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-042550	8346	|	972	9317	reverse
+6	mol-32-1605-005559	1746	|	2109	3854	forward
+7	mol-32-1605-060503	8371	|	13984	22354	forward
+8	mol-32-15ef-029735	8198	|	13984	22181	forward
+9	mol-32-15ef-039338	8216	|	15957	24172	reverse
+10	mol-32-1605-016362	2167	|	5886	8052	forward
+11	mol-32-1605-039467	8365	|	2841	11205	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M18.1 ***
+
+Number of links: 2
+Size: 13677
+%G+C: 41.6
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-046666	8797	|	1	8797	forward	|	1	8797	1	8797
+2	mol-32-15ef-024590	8986	|	4692	13677	forward	|	4107	8986	8798	13677
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-029240	2125	|	5394	7518	reverse
+4	mol-32-1605-023547	4496	|	5266	9761	reverse
+5	mol-32-1605-016251	3884	|	5269	9152	forward
+6	mol-32-15ef-049884	1556	|	5261	6816	reverse
+7	mol-32-1605-016531	2493	|	5269	7761	forward
+8	mol-32-1605-034821	4063	|	6370	10432	reverse
+9	mol-32-1605-047538	5869	|	5411	11279	reverse
+10	mol-32-1605-069748	3086	|	5337	8422	reverse
+11	mol-32-1605-053894	4486	|	5260	9745	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M19.1 ***
+
+Number of links: 4
+Size: 23313
+%G+C: 42.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-021774	8530	|	1	8530	forward	|	1	8530	1	8530
+2	mol-32-15ef-050756	7082	|	6068	13149	forward	|	2464	7082	8531	13149
+3	mol-32-1605-030152	10737	|	8579	19315	reverse	|	1	6166	13150	19315
+4	mol-32-1605-002861	7753	|	15561	23313	forward	|	3756	7753	19316	23313
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-016280	8714	|	13263	21976	forward
+6	mol-32-1605-059654	8678	|	14354	23031	reverse
+7	mol-32-1605-024100	7370	|	9028	16397	forward
+8	mol-32-15ef-005920	4514	|	1	4514	reverse
+9	mol-32-15ef-000552	7811	|	9152	16962	reverse
+10	mol-32-1605-081180	8758	|	13042	21799	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M20.1 ***
+
+Number of links: 3
+Size: 22002
+%G+C: 42.5
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-046409	10761	|	1	10761	reverse	|	1	10761	1	10761
+2	mol-32-1605-066828	8366	|	10104	18469	forward	|	659	8366	10762	18469
+3	mol-32-1605-059582	9144	|	12859	22002	forward	|	5612	9144	18470	22002
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-1605-071946	7460	|	13825	21284	reverse
+
+No inconsistent sequences
+
+
+*** M20.2 ***
+
+Number of links: 3
+Size: 21091
+%G+C: 45
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-025101	9046	|	1	9046	forward	|	1	9046	1	9046
+2	mol-32-1605-012530	9726	|	7548	17273	forward	|	1500	9726	9047	17273
+3	mol-32-1605-043226	8032	|	13060	21091	reverse	|	1	3818	17274	21091
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-1605-079550	7621	|	2607	10227	forward
+5	mol-32-15ef-059735	8952	|	6100	15051	reverse
+6	mol-32-1605-006808	8633	|	7071	15703	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M21.1 ***
+
+Number of links: 2
+Size: 12972
+%G+C: 40.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-051533	8898	|	1	8898	reverse	|	1	8898	1	8898
+2	mol-32-15ef-067527	7783	|	5190	12972	forward	|	3710	7783	8899	12972
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-076991	1737	|	5386	7122	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M22.1 ***
+
+Number of links: 2
+Size: 11436
+%G+C: 40.7
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-073537	9995	|	1	9995	forward	|	1	9995	1	9995
+2	mol-32-1605-083911	4217	|	7220	11436	forward	|	2777	4217	9996	11436
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-047754	8022	|	2855	10876	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M23.1 ***
+
+Number of links: 5
+Size: 27691
+%G+C: 40.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-011315	7967	|	1	7967	reverse	|	1	7967	1	7967
+2	mol-32-1605-069069	11168	|	4828	15995	reverse	|	1	8028	7968	15995
+3	mol-32-15ef-041685	8849	|	13704	22552	forward	|	2293	8849	15996	22552
+4	mol-32-1605-063753	7904	|	17444	25347	reverse	|	1	2795	22553	25347
+5	mol-32-1605-059535	2905	|	24787	27691	forward	|	562	2905	25348	27691
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+6	mol-32-1605-010429	7589	|	5393	12981	forward
+7	mol-32-1605-002294	9895	|	521	10415	reverse
+8	mol-32-1605-081704	8134	|	16722	24855	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M24.1 ***
+
+Number of links: 2
+Size: 14987
+%G+C: 40.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-050799	9257	|	1	9257	forward	|	1	9257	1	9257
+2	mol-32-1605-016233	6473	|	8515	14987	forward	|	744	6473	9258	14987
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-038367	7903	|	6665	14567	reverse
+4	mol-32-1605-086057	3885	|	5425	9309	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M25.1 ***
+
+Number of links: 2
+Size: 12889
+%G+C: 41.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-029810	8318	|	1	8318	reverse	|	1	8318	1	8318
+2	mol-32-15ef-046479	8252	|	4638	12889	forward	|	3682	8252	8319	12889
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-051457	11525	|	749	12273	forward
+4	mol-32-15ef-026151	2937	|	660	3596	forward
+5	mol-32-15ef-026152	7697	|	3587	11283	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M26.1 ***
+
+Number of links: 2
+Size: 11765
+%G+C: 42.7
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-027024	7980	|	1	7980	forward	|	1	7980	1	7980
+2	mol-32-15ef-054405	8325	|	3441	11765	forward	|	4541	8325	7981	11765
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-048815	2525	|	6606	9130	reverse
+4	mol-32-1605-048747	4959	|	1317	6275	reverse
+5	mol-32-1605-057411	7374	|	421	7794	forward
+6	mol-32-1605-062371	8050	|	295	8344	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M27.1 ***
+
+Number of links: 2
+Size: 11894
+%G+C: 41.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-028889	11291	|	1	11291	forward	|	1	11291	1	11291
+2	mol-32-1605-078415	7230	|	4665	11894	forward	|	6628	7230	11292	11894
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-056124	7372	|	2647	10018	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M28.1 ***
+
+Number of links: 4
+Size: 25636
+%G+C: 41.4
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-070407	7510	|	1	7510	forward	|	1	7510	1	7510
+2	mol-32-1605-060693	9772	|	6499	16270	reverse	|	1	8760	7511	16270
+3	mol-32-1605-069930	7650	|	14291	21940	reverse	|	1	5670	16271	21940
+4	mol-32-1605-070822	9487	|	16150	25636	reverse	|	1	3696	21941	25636
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-004187	7892	|	13098	20989	reverse
+6	mol-32-1605-026400	7580	|	6052	13631	forward
+7	mol-32-15ef-022747	8397	|	7720	16116	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M29.1 ***
+
+Number of links: 2
+Size: 9082
+%G+C: 38.6
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-064730	8079	|	1	8079	reverse	|	1	8079	1	8079
+2	mol-32-1605-080319	2072	|	7011	9082	forward	|	1070	2072	8080	9082
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M30.1 ***
+
+Number of links: 4
+Size: 26416
+%G+C: 43.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-000803	8386	|	1	8386	reverse	|	1	8386	1	8386
+2	mol-32-1605-029024	7715	|	7834	15548	forward	|	554	7715	8387	15548
+3	mol-32-1605-083994	7844	|	13102	20945	forward	|	2448	7844	15549	20945
+4	mol-32-1605-027489	9528	|	16889	26416	reverse	|	1	5471	20946	26416
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-046513	8769	|	6007	14775	reverse
+6	mol-32-1605-012295	7947	|	10621	18567	forward
+7	mol-32-1605-039120	2703	|	7117	9819	reverse
+8	mol-32-1605-041354	9473	|	1558	11030	forward
+9	mol-32-1605-039119	5128	|	9838	14965	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M31.1 ***
+
+Number of links: 3
+Size: 19125
+%G+C: 41.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-076172	8360	|	1	8360	forward	|	1	8360	1	8360
+2	mol-32-1605-015278	9406	|	6470	15875	forward	|	1892	9406	8361	15875
+3	mol-32-1605-058105	6011	|	13115	19125	forward	|	2762	6011	15876	19125
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-15ef-034550	1639	|	11378	13016	forward
+5	mol-32-1605-069901	7742	|	3408	11149	reverse
+6	mol-32-1605-020380	8084	|	2765	10848	forward
+7	mol-32-1605-045763	9517	|	3783	13299	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M32.1 ***
+
+Number of links: 3
+Size: 17833
+%G+C: 41.5
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-010283	5699	|	1	5699	reverse	|	1	5699	1	5699
+2	mol-32-15ef-061378	8211	|	3731	11941	reverse	|	1	6242	5700	11941
+3	mol-32-1605-052213	7984	|	9850	17833	reverse	|	1	5892	11942	17833
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-15ef-055806	9122	|	658	9779	forward
+5	mol-32-1605-062146	8561	|	5469	14029	reverse
+6	mol-32-15ef-013473	8402	|	363	8764	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M33.1 ***
+
+Number of links: 2
+Size: 14467
+%G+C: 41.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-030397	9290	|	1	9290	reverse	|	1	9290	1	9290
+2	mol-32-15ef-039396	8810	|	5658	14467	forward	|	3634	8810	9291	14467
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+No more sequeces left to check
+
+
+*** M35.1 ***
+
+Number of links: 4
+Size: 22450
+%G+C: 41.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-034585	7530	|	1	7530	forward	|	1	7530	1	7530
+2	mol-32-1605-061302	7643	|	6819	14461	forward	|	713	7643	7531	14461
+3	mol-32-1605-078950	11455	|	8610	20064	reverse	|	1	5603	14462	20064
+4	mol-32-1605-070768	8261	|	14190	22450	forward	|	5876	8261	20065	22450
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-035616	3347	|	8870	12216	forward
+6	mol-32-1605-035739	1987	|	5344	7330	forward
+7	mol-32-1605-036438	7700	|	2920	10619	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M36.1 ***
+
+Number of links: 6
+Size: 35483
+%G+C: 41.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-061607	3265	|	1	3265	reverse	|	1	3265	1	3265
+2	mol-32-15ef-015510	10604	|	1432	12035	reverse	|	1	8770	3266	12035
+3	mol-32-15ef-006292	7624	|	11276	18899	forward	|	761	7624	12036	18899
+4	mol-32-1605-017723	8658	|	15211	23868	reverse	|	1	4969	18900	23868
+5	mol-32-15ef-048174	8012	|	20487	28498	reverse	|	1	4630	23869	28498
+6	mol-32-15ef-048652	8885	|	26599	35483	reverse	|	1	6985	28499	35483
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+7	mol-32-15ef-031087	4168	|	17263	21430	forward
+8	mol-32-1605-026004	3323	|	182	3504	forward
+9	mol-32-1605-005720	7198	|	11196	18393	forward
+10	mol-32-1605-019413	8098	|	10312	18409	forward
+11	mol-32-1605-080436	11066	|	4183	15248	forward
+12	mol-32-15ef-031046	3508	|	13435	16942	reverse
+13	mol-32-1605-007414	8018	|	14245	22262	forward
+14	mol-32-1605-046123	7858	|	6110	13967	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M37.1 ***
+
+Number of links: 7
+Size: 36706
+%G+C: 39.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-079467	4367	|	1	4367	forward	|	1	4367	1	4367
+2	mol-32-1605-032554	7374	|	2372	9745	reverse	|	1	5378	4368	9745
+3	mol-32-15ef-009009	9259	|	8367	17625	forward	|	1380	9259	9746	17625
+4	mol-32-15ef-002029	10184	|	10899	21082	forward	|	6728	10184	17626	21082
+5	mol-32-15ef-060594	8424	|	18556	26979	forward	|	2528	8424	21083	26979
+6	mol-32-1605-079717	8822	|	22489	31310	forward	|	4492	8822	26980	31310
+7	mol-32-1605-083686	7953	|	28754	36706	reverse	|	1	5396	31311	36706
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+8	mol-32-1605-056726	9572	|	5719	15290	forward
+9	mol-32-1605-059333	2391	|	16368	18758	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M38.1 ***
+
+Number of links: 2
+Size: 9879
+%G+C: 39
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-014516	8722	|	1	8722	reverse	|	1	8722	1	8722
+2	mol-32-1605-003509	1687	|	8193	9879	reverse	|	1	1157	8723	9879
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-003618	1580	|	4929	6508	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M39.1 ***
+
+Number of links: 2
+Size: 8479
+%G+C: 44.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-017504	2734	|	1	2734	forward	|	1	2734	1	2734
+2	mol-32-15ef-045484	8371	|	109	8479	forward	|	2627	8371	2735	8479
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M40.1 ***
+
+Number of links: 2
+Size: 11815
+%G+C: 42.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-034228	7891	|	1	7891	forward	|	1	7891	1	7891
+2	mol-32-1605-005136	8956	|	2860	11815	forward	|	5033	8956	7892	11815
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M41.1 ***
+
+Number of links: 2
+Size: 10507
+%G+C: 50
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-060828	7975	|	1	7975	forward	|	1	7975	1	7975
+2	mol-32-1605-085857	8446	|	2062	10507	forward	|	5915	8446	7976	10507
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M42.1 ***
+
+Number of links: 4
+Size: 20942
+%G+C: 43.4
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-072219	7932	|	1	7932	forward	|	1	7932	1	7932
+2	mol-32-1605-086334	6440	|	5885	12324	forward	|	2049	6440	7933	12324
+3	mol-32-1605-086806	8421	|	8234	16654	forward	|	4092	8421	12325	16654
+4	mol-32-1605-012325	7973	|	12970	20942	reverse	|	1	4288	16655	20942
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-058392	2220	|	8371	10590	reverse
+6	mol-32-1605-058398	3637	|	10736	14372	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+No more sequeces left to check
+
+
+*** M44.1 ***
+
+Number of links: 2
+Size: 9669
+%G+C: 41.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-068873	8121	|	1	8121	forward	|	1	8121	1	8121
+2	mol-32-15ef-050049	6994	|	2676	9669	forward	|	5447	6994	8122	9669
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M45.1 ***
+
+Number of links: 2
+Size: 19964
+%G+C: 43.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-065516	10492	|	1	10492	reverse	|	1	10492	1	10492
+2	mol-32-1605-033885	10185	|	9780	19964	reverse	|	1	9472	10493	19964
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-15ef-037852	7969	|	11947	19915	reverse
+4	mol-32-15ef-005145	5346	|	5986	11331	forward
+5	mol-32-1605-023670	7786	|	2900	10685	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M46.1 ***
+
+Number of links: 2
+Size: 10567
+%G+C: 43
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-055173	8796	|	1	8796	reverse	|	1	8796	1	8796
+2	mol-32-15ef-066826	8271	|	2297	10567	reverse	|	1	1771	8797	10567
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-050147	5325	|	2731	8055	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M47.1 ***
+
+Number of links: 3
+Size: 20061
+%G+C: 44.7
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-023492	11073	|	1	11073	forward	|	1	11073	1	11073
+2	mol-32-1605-038812	11038	|	5605	16642	forward	|	5470	11038	11074	16642
+3	mol-32-1605-040151	7836	|	12226	20061	reverse	|	1	3419	16643	20061
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-1605-017851	2478	|	16521	18998	forward
+5	mol-32-1605-084557	7789	|	12060	19848	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M48.1 ***
+
+Number of links: 2
+Size: 9191
+%G+C: 43.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-017102	2282	|	1	2282	forward	|	1	2282	1	2282
+2	mol-32-1605-081099	7451	|	1741	9191	reverse	|	1	6909	2283	9191
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M49.1 ***
+
+Number of links: 2
+Size: 12079
+%G+C: 38.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-069072	8483	|	1	8483	forward	|	1	8483	1	8483
+2	mol-32-1605-077657	5343	|	6737	12079	reverse	|	1	3596	8484	12079
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-085054	8337	|	564	8900	forward
+4	mol-32-1605-019354	1658	|	3226	4883	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M50.1 ***
+
+Number of links: 2
+Size: 15650
+%G+C: 41.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-001365	8793	|	1	8793	reverse	|	1	8793	1	8793
+2	mol-32-1605-068581	9091	|	6560	15650	reverse	|	1	6857	8794	15650
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-024757	8741	|	1787	10527	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M51.1 ***
+
+Number of links: 4
+Size: 22445
+%G+C: 42.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-076859	6257	|	1	6257	forward	|	1	6257	1	6257
+2	mol-32-1605-024141	9173	|	3989	13161	reverse	|	1	6904	6258	13161
+3	mol-32-1605-054489	7982	|	10594	18575	forward	|	2569	7982	13162	18575
+4	mol-32-1605-080067	8874	|	13572	22445	reverse	|	1	3870	18576	22445
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-15ef-005910	3963	|	39	4001	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M52.1 ***
+
+Number of links: 4
+Size: 22749
+%G+C: 41.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-058892	7634	|	1	7634	forward	|	1	7634	1	7634
+2	mol-32-1605-044951	8334	|	5251	13584	forward	|	2385	8334	7635	13584
+3	mol-32-1605-073534	9894	|	9003	18896	forward	|	4583	9894	13585	18896
+4	mol-32-15ef-001142	9044	|	13706	22749	forward	|	5192	9044	18897	22749
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-016634	8319	|	5135	13453	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M53.1 ***
+
+Number of links: 4
+Size: 20029
+%G+C: 43.7
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-015485	6580	|	1	6580	reverse	|	1	6580	1	6580
+2	mol-32-1605-039276	10425	|	2155	12579	reverse	|	1	5999	6581	12579
+3	mol-32-1605-008984	8562	|	9430	17991	forward	|	3151	8562	12580	17991
+4	mol-32-1605-069763	5376	|	14654	20029	forward	|	3339	5376	17992	20029
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-15ef-027475	7891	|	8283	16173	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M54.1 ***
+
+Number of links: 2
+Size: 13694
+%G+C: 41.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-018105	8062	|	1	8062	forward	|	1	8062	1	8062
+2	mol-32-15ef-067312	9218	|	4477	13694	forward	|	3587	9218	8063	13694
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-067417	8807	|	2410	11216	forward
+4	mol-32-1605-053170	1656	|	6345	8000	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M55.1 ***
+
+Number of links: 2
+Size: 14815
+%G+C: 42.4
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-041253	7608	|	1	7608	reverse	|	1	7608	1	7608
+2	mol-32-1605-005086	8461	|	6355	14815	reverse	|	1	7207	7609	14815
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M56.1 ***
+
+Number of links: 4
+Size: 21516
+%G+C: 42.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-037982	7541	|	1	7541	forward	|	1	7541	1	7541
+2	mol-32-1605-032423	8092	|	4989	13080	reverse	|	1	5539	7542	13080
+3	mol-32-1605-045600	9594	|	9679	19272	forward	|	3403	9594	13081	19272
+4	mol-32-1605-077240	6339	|	15178	21516	reverse	|	1	2244	19273	21516
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+5	mol-32-1605-030326	7766	|	1744	9509	forward
+6	mol-32-1605-021473	8500	|	7081	15580	forward
+7	mol-32-1605-012292	5998	|	3756	9753	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M57.1 ***
+
+Number of links: 3
+Size: 17157
+%G+C: 41.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-034442	8762	|	1	8762	reverse	|	1	8762	1	8762
+2	mol-32-1605-004173	8939	|	5553	14491	forward	|	3211	8939	8763	14491
+3	mol-32-1605-086536	7557	|	9601	17157	reverse	|	1	2666	14492	17157
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M58.1 ***
+
+Number of links: 2
+Size: 10467
+%G+C: 41.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-035498	7301	|	1	7301	reverse	|	1	7301	1	7301
+2	mol-32-1605-011646	8900	|	1568	10467	forward	|	5735	8900	7302	10467
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-040232	8045	|	1204	9248	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M59.1 ***
+
+Number of links: 3
+Size: 10962
+%G+C: 41.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-001011	7958	|	1	7958	forward	|	1	7958	1	7958
+2	mol-32-1605-066056	8954	|	1232	10185	forward	|	6728	8954	7959	10185
+3	mol-32-1605-040950	2452	|	8511	10962	forward	|	1676	2452	10186	10962
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M60.1 ***
+
+Number of links: 2
+Size: 11823
+%G+C: 43.3
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-083306	8130	|	1	8130	reverse	|	1	8130	1	8130
+2	mol-32-15ef-044208	7925	|	3899	11823	reverse	|	1	3693	8131	11823
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-15ef-066706	8393	|	958	9350	reverse
+4	mol-32-15ef-037372	9131	|	2088	11218	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M61.1 ***
+
+Number of links: 3
+Size: 19328
+%G+C: 42.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-006813	10475	|	1	10475	reverse	|	1	10475	1	10475
+2	mol-32-1605-011456	9483	|	6854	16336	reverse	|	1	5861	10476	16336
+3	mol-32-1605-057930	9294	|	10035	19328	forward	|	6303	9294	16337	19328
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-15ef-060737	5523	|	5524	11046	reverse
+5	mol-32-15ef-060736	2643	|	11154	13796	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M62.1 ***
+
+Number of links: 2
+Size: 11130
+%G+C: 42.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-026283	8607	|	1	8607	reverse	|	1	8607	1	8607
+2	mol-32-1605-056747	10633	|	498	11130	forward	|	8111	10633	8608	11130
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-15ef-016806	8291	|	498	8788	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M63.1 ***
+
+Number of links: 2
+Size: 9841
+%G+C: 41.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-029137	7846	|	1	7846	reverse	|	1	7846	1	7846
+2	mol-32-1605-039466	8168	|	1674	9841	forward	|	6174	8168	7847	9841
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M64.1 ***
+
+Number of links: 2
+Size: 13342
+%G+C: 40.5
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-076683	8385	|	1	8385	reverse	|	1	8385	1	8385
+2	mol-32-1605-017078	7668	|	5675	13342	reverse	|	1	4957	8386	13342
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-075691	8248	|	1406	9653	reverse
+4	mol-32-1605-079531	1546	|	4425	5970	forward
+5	mol-32-15ef-063653	7838	|	1	7838	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M65.1 ***
+
+Number of links: 2
+Size: 11796
+%G+C: 42.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-031751	8563	|	1	8563	forward	|	1	8563	1	8563
+2	mol-32-1605-060951	8751	|	3046	11796	forward	|	5519	8751	8564	11796
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-062441	8666	|	1723	10388	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M66.1 ***
+
+Number of links: 2
+Size: 8413
+%G+C: 42.7
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-016300	7978	|	1	7978	forward	|	1	7978	1	7978
+2	mol-32-1605-010164	8223	|	191	8413	reverse	|	1	435	7979	8413
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-002321	5632	|	1795	7426	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+No more sequeces left to check
+
+
+*** M68.1 ***
+
+Number of links: 2
+Size: 13878
+%G+C: 40.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-040108	7796	|	1	7796	forward	|	1	7796	1	7796
+2	mol-32-1605-067010	8196	|	5683	13878	forward	|	2115	8196	7797	13878
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M69.1 ***
+
+Number of links: 2
+Size: 8513
+%G+C: 64.4
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-023630	7639	|	1	7639	forward	|	1	7639	1	7639
+2	mol-32-1605-023042	6684	|	1830	8513	reverse	|	1	874	7640	8513
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M70.1 ***
+
+Number of links: 2
+Size: 17353
+%G+C: 40.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-057162	10143	|	1	10143	forward	|	1	10143	1	10143
+2	mol-32-15ef-053325	8376	|	8978	17353	reverse	|	1	7210	10144	17353
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-086893	7878	|	3871	11748	reverse
+4	mol-32-1605-035845	6999	|	6826	13824	forward
+5	mol-32-15ef-027232	8206	|	4932	13137	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M71.1 ***
+
+Number of links: 3
+Size: 22197
+%G+C: 41.8
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-001397	11164	|	1	11164	forward	|	1	11164	1	11164
+2	mol-32-1605-086722	8662	|	10183	18844	reverse	|	1	7680	11165	18844
+3	mol-32-1605-077682	7838	|	14360	22197	forward	|	4486	7838	18845	22197
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-15ef-035855	9349	|	6011	15359	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M72.1 ***
+
+Number of links: 3
+Size: 18010
+%G+C: 40
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-042964	9087	|	1	9087	forward	|	1	9087	1	9087
+2	mol-32-1605-065547	9314	|	3396	12709	reverse	|	1	3622	9088	12709
+3	mol-32-1605-034085	8171	|	9840	18010	forward	|	2871	8171	12710	18010
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+4	mol-32-1605-073304	7859	|	9121	16979	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M73.1 ***
+
+Number of links: 2
+Size: 9469
+%G+C: 43.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-021373	9353	|	1	9353	forward	|	1	9353	1	9353
+2	mol-32-1605-036499	8519	|	951	9469	forward	|	8404	8519	9354	9469
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-011389	3206	|	311	3516	reverse
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M74.1 ***
+
+Number of links: 2
+Size: 5337
+%G+C: 42
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-080364	3124	|	1	3124	forward	|	1	3124	1	3124
+2	mol-32-1605-031704	4364	|	974	5337	forward	|	2152	4364	3125	5337
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+No more sequeces left to check
+
+
+*** M76.1 ***
+
+Number of links: 2
+Size: 13664
+%G+C: 42.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-057430	8872	|	1	8872	forward	|	1	8872	1	8872
+2	mol-32-1605-082712	6839	|	6826	13664	forward	|	2048	6839	8873	13664
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M77.1 ***
+
+Number of links: 2
+Size: 15873
+%G+C: 44.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-027491	12337	|	1	12337	forward	|	1	12337	1	12337
+2	mol-32-1605-057015	7731	|	8143	15873	reverse	|	1	3536	12338	15873
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+No more sequeces left to check
+
+
+*** M79.1 ***
+
+Number of links: 2
+Size: 11499
+%G+C: 42.1
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-15ef-015252	11270	|	1	11270	reverse	|	1	11270	1	11270
+2	mol-32-1605-024150	8415	|	3085	11499	reverse	|	1	229	11271	11499
+
+Consistent sequences:
+
+	sequence          	length	|	scaf_start	scaf_end	orientation
+3	mol-32-1605-054766	7944	|	1872	9815	forward
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M80.1 ***
+
+Number of links: 2
+Size: 16462
+%G+C: 39.9
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-027620	9344	|	1	9344	forward	|	1	9344	1	9344
+2	mol-32-15ef-018416	8263	|	8200	16462	reverse	|	1	7118	9345	16462
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M81.1 ***
+
+Number of links: 2
+Size: 9915
+%G+C: 41.6
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-003154	5103	|	1	5103	forward	|	1	5103	1	5103
+2	mol-32-1605-078841	9396	|	520	9915	forward	|	4585	9396	5104	9915
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M82.1 ***
+
+Number of links: 2
+Size: 15477
+%G+C: 41.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-014557	8223	|	1	8223	forward	|	1	8223	1	8223
+2	mol-32-1605-074400	9767	|	5711	15477	reverse	|	1	7254	8224	15477
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+*** M83.1 ***
+
+Number of links: 2
+Size: 7086
+%G+C: 59.2
+
+Composing sequences:
+
+	                 	      	|	Sequence  	        	           	|	Contributed region
+	sequence         	length	|	scaf_start	scaf_end	orientation	|	seq_start	seq_end	scaf_start	scaf_end
+1	mol-32-1605-059318	1605	|	1	1605	forward	|	1	1605	1	1605
+2	mol-32-1605-059909	6984	|	103	7086	forward	|	1504	6984	1606	7086
+
+No consistent sequences
+
+
+No inconsistent sequences
+
+No more sequeces left to check
+
+
+Finished, 11/24/2014 06:23:49
+
