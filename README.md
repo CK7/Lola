@@ -8,7 +8,7 @@ use. We therefore recommend that you use Minimus2 instead of Lola for this purpo
 
 The process of assembling long reads with Lola consists of the following two steps:
 
-1. Determining overlaps between the reads using the program overlap (https://github.com/CK7/overlap), and
+1. Determining overlaps between the reads using the [program overlap](https://github.com/CK7/overlap), and
 2. Running Lola
 
 For running overlap refer to the README file for the overlap project.
