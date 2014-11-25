@@ -52,8 +52,11 @@ $ example/run
 
 Check example/output for what the directory should look like after run finishes.
 
+### How to cite
+Comming soon
+
 ### License
-Copyright (C) 2012 Itai Sharon
+Copyright (C) 2014 Itai Sharon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
 to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
